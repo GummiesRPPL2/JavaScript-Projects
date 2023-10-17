@@ -4,7 +4,6 @@
 <hr>
 
 <h1>Projects</h1>
-<hr>
 <ul>
-  <li><a src="/Basic_JavaScript_Projects></a></li>
+  <li><a src="/Basic_JavaScript_Projects">Basic JavaScript Projects</a></li>
 </ul>
