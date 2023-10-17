@@ -6,4 +6,5 @@
 <h1>Projects</h1>
 <ul>
   <li><a src="/Basic JavaScript Projects">Basic JavaScript Projects</a></li>
+  <li><a src="/Calculator">Calculator</a></li>
 </ul>
